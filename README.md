@@ -63,11 +63,3 @@ python3 --version
 ## Contributing
 
 Contributions, bug reports, and fixes are welcome. Please open an issue or submit a pull request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Note: This README assumes you might want to host the program on a platform like GitHub, hence the sections on cloning, contributing, and licensing. You can customize it further depending on your needs. If you do decide to use a license, make sure to include a `LICENSE` file in your repository with the appropriate license text.
